@@ -1,0 +1,10 @@
+*.md
+*/gtsrb/*
+*.zip
+*.csv
+*.txt
+*.png
+*.jpg
+*.html
+*.ttf
+*/savefile/*
